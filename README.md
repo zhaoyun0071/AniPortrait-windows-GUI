@@ -4,7 +4,7 @@
 软件基于开源的项目
 [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
 
-# B站介绍：[[https://www.bilibili.com/video/BV1au4m1g7uW](https://space.bilibili.com/4228235/channel/collectiondetail?sid=2618430) ](https://space.bilibili.com/4228235/channel/collectiondetail?sid=2618430 )
+# B站介绍：https://space.bilibili.com/4228235/channel/collectiondetail?sid=2618430
 
  ![image](https://github.com/zhaoyun0071/AniPortrait-windows-GUI/blob/main/1.png)
 
